@@ -50,7 +50,11 @@ src/
 │ ├── Navbar.jsx # Navigation header
 │ ├── ProjectSection.jsx # Showcase of work
 │ └── ... # Other components
-├── styles/ # Global styles
+├── lib/
+| └── utils.js
+├── pages/
+| ├── Home.jsx
+| └── NotFound.jsx
 └── App.jsx # Main application
 ```
 
