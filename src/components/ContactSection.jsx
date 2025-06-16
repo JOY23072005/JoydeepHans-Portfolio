@@ -1,8 +1,8 @@
 import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Send, Twitter } from 'lucide-react'
 import React, { useState } from 'react'
-import {cn} from "@/lib/utils"
-import emailjs from "@emailjs/browser"
-import EmailAlert from "@/components/EmailAlert"
+import {cn} from "../lib/utils"
+import emailjs from "..emailjs/browser"
+import EmailAlert from "../components/EmailAlert"
 
 export default function ContactSection() {
     const [name,setName] = useState('');
