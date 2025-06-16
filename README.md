@@ -25,7 +25,7 @@ Welcome to my personal portfolio website! This is a showcase of my skills, proje
   - Lucide Icons
 
 - **Deployment**:
-  - Vercel (or your hosting platform)
+  - Vercel
 
 ## 📌 Sections
 
@@ -43,6 +43,7 @@ Welcome to my personal portfolio website! This is a showcase of my skills, proje
 - Attention to accessibility standards
 
 ## 🏗️ Project Structure
+```
 src/
 ├── components/
 │ ├── HeroSection.jsx # Animated introduction
@@ -51,7 +52,7 @@ src/
 │ └── ... # Other components
 ├── styles/ # Global styles
 └── App.jsx # Main application
-
+```
 
 ## 🌐 Live Demo
 
