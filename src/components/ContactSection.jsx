@@ -2,7 +2,7 @@ import { Facebook, Instagram, Linkedin, Mail, MapPin, Phone, Send, Twitter } fro
 import React, { useState } from 'react'
 import {cn} from "../lib/utils"
 import emailjs from "@emailjs/browser"
-import EmailAlert from "../components/EmailAlert"
+import EmailAlert from "./EmailAlert.jsx"
 
 export default function ContactSection() {
     const [name,setName] = useState('');
