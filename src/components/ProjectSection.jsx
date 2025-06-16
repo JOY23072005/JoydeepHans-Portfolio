@@ -1,4 +1,4 @@
-import ImageSlideShow from "./ImageSlideShow.jsx"
+import ImageSlideShow from "./ImageSlideshow.jsx"
 import { ArrowRight, ExternalLink, Github } from "lucide-react"
 
 export default function ProjectSection() {
