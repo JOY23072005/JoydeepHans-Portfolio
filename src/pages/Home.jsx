@@ -1,12 +1,12 @@
-import StarBackground from "@/components/StarBackground"
-import Navbar from "@/components/Navbar"
-import HeroSection from "@/components/HeroSection"
-import About from "@/components/About"
-import SkillsSection from "@/components/SkillsSection"
-import Themetoggle from "@/components/ThemeToggle"
-import ProjectSection from "@/components/ProjectSection"
-import ContactSection from "@/components/ContactSection"
-import Footer from "@/components/Footer"
+import StarBackground from "../components/StarBackground"
+import Navbar from "../components/Navbar"
+import HeroSection from "../components/HeroSection"
+import About from "../components/About"
+import SkillsSection from "../components/SkillsSection"
+import Themetoggle from "../components/ThemeToggle"
+import ProjectSection from "../components/ProjectSection"
+import ContactSection from "../components/ContactSection"
+import Footer from "../components/Footer"
 
 export default function Home() {
   return (
