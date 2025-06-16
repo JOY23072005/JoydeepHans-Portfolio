@@ -60,7 +60,7 @@ src/
 
 ## 🌐 Live Demo
 
-Check out the live version at: [your-portfolio-url.com](https://your-portfolio-url.com)
+Check out the live version at: [joydeep-hans-portfolio.vercel.app/](https://joydeep-hans-portfolio.vercel.app/)
 
 ## 🤝 Contact Me
 
