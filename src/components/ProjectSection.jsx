@@ -6,7 +6,7 @@ export default function ProjectSection() {
         {
       id: 1,
       title: "Chatty-Realtime-Chat-App",
-      description:`A React-based web application that allows users to chat in real time.`,
+      description:`A MERN-based web application that allows users to chat in real time.`,
       images: ["/projects/chatty1.png","/projects/chatty2.png","/projects/chatty3.png"],
       tags: ["React","Node.js","Express","Socket.IO","JWT Auth","MongoDB"],
       demoUrl:"https://real-time-chat-app-swart-five.vercel.app",
